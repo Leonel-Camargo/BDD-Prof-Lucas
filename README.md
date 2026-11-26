@@ -1,10 +1,12 @@
 # BDD-Prof-Lucas
 
-# Plataforma de Hospedagem - Banco de Dados SQL
 
 # Informações Pessoais
 Aluno: Leonel de Camargo Neto
 Turma: 1° Desenvolvimento de Sistemas
+
+# Plataforma de Hospedagem - Banco de Dados SQL
+
 
 ## Sobre a disciplina
 Durante as aulas de Banco de Dados I com o professor Lucas e durante as aulas fomos aprendendo a estrutrar bancos de dados, implementar dados e modificar estruturas dentro do banco de dados, a partir desse projeto aprendemos a realizar consultas dentro dos dados implementados, tais consultas estão descritas na explicação dos arquivos.
