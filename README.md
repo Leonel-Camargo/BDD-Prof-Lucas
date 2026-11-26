@@ -2,7 +2,7 @@
 
 # Plataforma de Hospedagem - Banco de Dados SQL
 
-**# Informações Pessoais**
+# Informações Pessoais
 Aluno: Leonel de Camargo Neto
 Turma: 1° Desenvolvimento de Sistemas
 
