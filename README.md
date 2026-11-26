@@ -2,11 +2,12 @@
 
 # Plataforma de Hospedagem - Banco de Dados SQL
 
-## Sobre o projeto
-Este projeto reúne scripts em SQL voltados para a estruturação, consulta e manutenção do banco de dados de uma plataforma de hospedagens. O código cobre desde a criação das tabelas principais do sistema até a extração de métricas de negócio e ajustes estruturais na base de dados.
+**# Informações Pessoais**
+Aluno: Leonel de Camargo Neto
+Turma: 1° Desenvolvimento de Sistemas
 
-## Objetivo
-Demonstrar a modelagem relacional de um sistema de reservas e aplicar consultas SQL para responder a perguntas do negócio — como cálculo de ticket médio, tempo de estadia e identificação de demanda — além de realizar atualizações de registros e alterações na estrutura das tabelas.
+## Sobre a disciplina
+Durante as aulas de Banco de Dados I com o professor Lucas e durante as aulas fomos aprendendo a estrutrar bancos de dados, implementar dados e modificar estruturas dentro do banco de dados, a partir desse projeto aprendemos a realizar consultas dentro dos dados implementados, tais consultas estão descritas na explicação dos arquivos.
 
 ## Arquivos SQL
 
